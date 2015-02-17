@@ -1,0 +1,317 @@
+<p>&nbsp;<input type=\"image\" src=\"/UserFiles/image/ITPE_LOGO.png\" width=\"318\" height=\"128\" /><input type=\"image\" src=\"/UserFiles/image/NSTDA.png\" width=\"324\" height=\"128\" /><span cordia=\"\" new=\"\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"> </span></p>
+<p><span lang=\"TH\" style=\"text-align: center; background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">สถาบันวิทยาการ สวทช.&nbsp;</span><span style=\"text-align: center; background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">NSTDA Academy&nbsp;&nbsp;<span lang=\"TH\">ร่วมมือกับ</span>&nbsp;&nbsp;<span lang=\"TH\">มหาวิทยาลัยพะเยา</span></span></p>
+<p>&nbsp;</p>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: center; \"><span lang=\"TH\" style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ศูนย์สอบวัดมาตรฐานวิชาชีพ&nbsp;</span><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ITPE&nbsp;<span lang=\"TH\">มหาวิทยาลัยพะเยา</span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;</span><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;</span><span lang=\"TH\" style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ผู้สมัครสามารถดูรายละเอียดเพิ่มเติม และสมัครสอบด้วยตนเองผ่านระบบอินเทอร์เน็ต ได้ที่</span><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;<a href=\"http://www.nstdaacademy.com/\" style=\"color: rgb(141, 56, 201); text-decoration: none; \"><span style=\"color: blue; \">http://www.nstdaacademy.com</span></a><u>&nbsp;</u></span></p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; margin-bottom: 0pt; \"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span lang=\"TH\" style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โครงการสอบมาตรฐานวิชาชีพไอที</span><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;Information&nbsp;Technology Professionals Examination (ITPE)&nbsp;</span><span lang=\"TH\" style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">เป็นการสอบแบบไม่อิงผลิตภัณฑ์ โดยร่วมมือกับประเทศญี่ปุ่น พม่า มาเลเซีย มองโกเลีย ฟิลิปปินส์ และเวียดนาม ซึ่งก่อตั้งเป็น</span><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;Information Technology&nbsp;Professionals&nbsp;</span></p>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: center; margin: 0cm 0cm 0pt; \"><b><br />
+</b></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><strong><br />
+</strong></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: center; \"><span lang=\"TH\" style=\"line-height: 21px; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โครงการอบรมติวสอบ&nbsp;</span><span style=\"line-height: 21px; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">IP (IT Passport)&nbsp;<span lang=\"TH\">สําหรับการสอบ&nbsp;</span>ITPE&nbsp;<span lang=\"TH\">ครั้งที่&nbsp;</span>1/2555&nbsp;<span lang=\"TH\"><br />
+วันที่&nbsp;</span>26-27<span lang=\"TH\">&nbsp;เมษายน&nbsp;</span>2555&nbsp;<span lang=\"TH\"><br />
+สถานที่ติว ห้อง&nbsp;</span>ICT 1107&nbsp;<span lang=\"TH\">ตึกคณะเทคโนโลยีสารสนเทศและการสื่อสาร<br />
+ศูนย์สอบภาคเหนือ มหาวิทยาลัยพะเยา คณะเทคโนโลยีสารสนเทศและการสื่อสาร</span></span></p>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: center; \"><span style=\"line-height: 21px; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \"><span lang=\"TH\"><br />
+</span></span></p>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: center; \">&nbsp;</p>
+<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" class=\"MsoTableGrid\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; border-style: none; text-align: center; border-collapse: collapse; \">
+    <tbody>
+        <tr>
+            <td valign=\"top\" style=\"border: 1pt solid windowtext; padding: 0cm 5.4pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><b><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">วันพฤหัสบดีที่&nbsp;</span></b><b><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">26&nbsp;<span lang=\"TH\">เมษายน&nbsp;</span>2555</span></b></p>
+            <p><b>&nbsp;</b></p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: solid solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-top-color: windowtext; border-top-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: solid solid solid none; padding: 0cm 5.4pt; width: 126pt; border-top-color: windowtext; border-top-width: 1pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">8.30 - 8.45&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ลงทะเบียน รับเอกสาร</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">8.45 - 9.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">แนะนำการสอบ&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ITPE</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.ณัฐพล หาญสมุทร</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">9.00 - 10.30&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">เนื้อหา&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">Strategy</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.นภา ราชตา</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">10.30 - 12.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ตะลุยโจทย์&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">Strategy</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.นภา ราชตา</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">12.00 - 13.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">พักรับประทานอาหารกลางวัน</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">13.00 - 14.30&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">เนื้อหา&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">Management</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.ณัฐพล หาญสมุทร</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">14.30 - 16.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ตะลุยโจทย์</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;Management</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.ณัฐพล หาญสมุทร</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><b><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">วันศุกร์ที่&nbsp;</span></b><b><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">27&nbsp;<span lang=\"TH\">เมษายน&nbsp;</span>2555</span></b></p>
+            <p><b>&nbsp;</b></p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">9.00 - 10.30&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">เนื้อหา&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">Technology</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.วัฒนพงศ์ สุทธภักดิ์</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">10.30 - 12.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ตะลุยโจทย์</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;Technology</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.วัฒนพงศ์ สุทธภักดิ์</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">12.00 - 13.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">พักรับประทานอาหารกลางวัน</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \">&nbsp;</p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">13.00 - 14.30&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ตะลุยโจทย์</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.ณัฐพล หาญสมุทร</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign=\"top\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid; border-left-color: windowtext; border-left-width: 1pt; padding: 0cm 5.4pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p align=\"right\" class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">14.30 - 16.00&nbsp;<span lang=\"TH\">น.</span></span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"209\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 156.65pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">Post-Test</span></p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign=\"top\" width=\"168\" style=\"border-bottom-color: windowtext; border-bottom-width: 1pt; border-style: none solid solid none; padding: 0cm 5.4pt; width: 126pt; border-right-color: windowtext; border-right-width: 1pt; \">
+            <p>&nbsp;</p>
+            <p class=\"MsoNormal\" style=\"margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดย อ.ณัฐพล หาญสมุทร</span></p>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: center; \"><span style=\"line-height: 21px; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \"><span lang=\"TH\"><br />
+</span></span></p>
+<p align=\"center\" class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: left; \">&nbsp;</p>
+<p class=\"Default\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><b><u><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">กำหนดการสอบและสถานที่สอบ</span></u></b></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><b><u>&nbsp;</u></b></p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; \"><b><span lang=\"TH\">ครั้งที่</span></b><b>1/2555&nbsp;<span lang=\"TH\">วันอาทิตย์ที่&nbsp;</span>29&nbsp;<span lang=\"TH\">เมษายน&nbsp;</span>2555</b></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; \"><span lang=\"TH\">เปิดรับสมัครสอบในวันที่</span>22&nbsp;<span lang=\"TH\">ก.พ. -&nbsp;</span>15&nbsp;<span lang=\"TH\">เม.ย.&nbsp;</span>55</p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; \"><span lang=\"TH\">สถานที่สอบ ณ อาคารเทคโนโลยีสารสนเทศและการสื่อสาร มหาวิทยาลัยพะเยา</span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; margin-left: 36pt; \"><span lang=\"EN-GB\">&nbsp;</span>Information Technology Passport Examination (IP)</p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; margin-left: 36pt; \"><span lang=\"TH\">&nbsp;&nbsp; ภาคเช้า</span>&nbsp;09.30-12.15&nbsp;<span lang=\"TH\">น</span>.&nbsp;<span lang=\"TH\">&nbsp;ข้อสอบปรนัย</span>&nbsp;100&nbsp;<span lang=\"TH\">ข้อ</span><span lang=\"TH\">&nbsp;</span></p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; margin-left: 36pt; \"><span lang=\"EN-GB\">&nbsp;</span>Fundamental Information Technology Professional Examination (FE)</p>
+<p class=\"Default\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; margin-left: 36pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; color: windowtext; font-size: 14pt; \">&nbsp;&nbsp; ภาคเช้า&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; color: windowtext; font-size: 14pt; \">09.30-12.00&nbsp;<span lang=\"TH\">น</span>.&nbsp;<span lang=\"TH\">&nbsp;ข้อสอบปรนัย</span>&nbsp;80&nbsp;<span lang=\"TH\">ข้อ</span></span></p>
+<p class=\"Default\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; margin-left: 36pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; color: windowtext; font-size: 14pt; \">&nbsp;&nbsp; ภาคบ่าย</span><span style=\"font-family: \'Cordia New\', sans-serif; color: windowtext; font-size: 14pt; \">&nbsp;13.30-16.00&nbsp;<span lang=\"TH\">น</span>.<span lang=\"TH\">ข้อสอบปรนัยมี</span>&nbsp;7&nbsp;<span lang=\"TH\">ข้อ</span></span></p>
+<p class=\"Default\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; margin-left: 36pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; color: windowtext; font-size: 14pt; \">&nbsp;&nbsp; (FE&nbsp;<span lang=\"TH\">ต้องเข้าสอบทั้งภาคเช้าและภาคบ่าย</span>)</span></p>
+<p class=\"Default\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><u><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">อัตราค่าสมัครสอบ</span></u></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;<span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">นักศึกษา&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">300<span lang=\"TH\">&nbsp;บาท&nbsp;</span></span><span style=\"font-family: \'Cordia New\', sans-serif; color: red; font-size: 14pt; \">**(<span lang=\"TH\">สำหรับนิสิต คณะ&nbsp;</span>ICT&nbsp;<span lang=\"TH\">ม.พะเยา ถ้าสอบผ่านยินดีคืนเงินค่าสมัคร</span>)</span><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">บุคคลทั่วไปรวมทั้งอาจารย์และเจ้าหน้าที่</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">800<span lang=\"TH\">&nbsp;บาท</span>&nbsp;**</span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p class=\"Default\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;***** ช่องทาง</strong><span lang=\"TH\"><strong>ชำระเงิน ****</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"color: rgb(255, 0, 0); \">1.&nbsp;</span></span><span lang=\"TH\"><span style=\"color: rgb(255, 0, 0); \">ชำระเงินสดผ่านทางศูนย์สอบฯ ม.พะเยา&nbsp;คณะเทคโนโลยีสารสนเทศและการสื่อสาร&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.โอนเงิน ธนาคารไทยพานิชย์ จำกัด&nbsp;(มหาชน)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ชื่อบัญชีศูนย์สอบวัดมาตรฐาน ITPE มหาวิทยาลัยพะเยา&nbsp;&nbsp; สาขามหาวิทยาลัยพะเยา<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; เลขบัญชี 891-224560-5<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (วันติวสอบ ที่26-27 เมษายน 2555 ให้เตรียมหลักฐานการโอนและบัตรประชาชนหรือบัตรนิสิต มายืนยันด้วย หรือส่งมาที่</span><a href=\"mailto:naphat.ch@up.ac.th\" style=\"color: rgb(141, 56, 201); text-decoration: none; \"><span style=\"color: rgb(255, 0, 0); \">naphat.ch@up.ac.th</span></a><span style=\"color: rgb(255, 0, 0); \">&nbsp;)</span></span></span></p>
+<p class=\"MsoNormal\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; text-align: justify; \">&nbsp;</p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p><u style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span lang=\"TH\">วิธีสมัครสอบ</span></u><u style=\"color: rgb(51, 51, 51); \"> </u></p>
+<p style=\"margin-left: 40px; \"><u style=\"color: rgb(51, 51, 51); \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">http://dl.dropbox.com/u/<span lang=\"TH\">972371/</span>ItpeRegistrationManual.pdf</span></u></p>
+<p><u style=\"color: rgb(51, 51, 51); \"> <span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โดยที่เลือกศูนย์สอบเป็น</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">:&nbsp;</span><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; color: red; font-size: 14pt; \">ศูนย์สอบภาคเหนือ (เท่านั้น)</span><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">และเลือกวิธีการชำระเงินให้เลือก</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">:<span lang=\"TH\">&nbsp;</span></span><b><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; color: red; font-size: 14pt; \">&quot;เงินสด(กรุณาชำระค่าสมัครสอบผ่านทาง จนท.ประสานงานของศูนย์สอบฯ ของนศ.เอง</span></b><b><span style=\"font-family: \'Cordia New\', sans-serif; color: red; font-size: 14pt; \">)<span lang=\"TH\">&nbsp;เท่านั้น&quot;</span></span></b></u></p>
+<p>&nbsp;</p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><strong><u><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; font-weight: normal; \">ประโยชน์ที่ได้รับ</span></u></strong><u><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \"><br />
+<strong><span style=\"font-weight: normal; \">ผู้สอบผ่าน</span></strong></span></u></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span cordia=\"\"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;<span lang=\"TH\">1.</span></span><span cordia=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=\"TH\"><span cordia=\"\" new=\"\">ได้รับใบประกาศนียบัตรที่รับรองโดยประเทศต่างๆ ในสมาชิกกลุ่ม</span><span class=\"apple-converted-space\">&nbsp;</span></span><span cordia=\"\" new=\"\">ITPEC<span class=\"apple-converted-space\">&nbsp;</span><span lang=\"TH\">ซึ่งเป็นใบรับรองในระดับภูมิภาค</span></span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span cordia=\"\" new=\"\"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span lang=\"TH\">จาก</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span lang=\"TH\">ท่านรัฐมนตรีว่าการกระทรวงวิทยาศาสตร์ และเทคโนโลยี</span></span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span cordia=\"\" new=\"\"><span cordia=\"\"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;<span lang=\"TH\">2.</span></span><span cordia=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=\"TH\"><span cordia=\"\" new=\"\">ได้รับสิทธิพิเศษในการพิจารณาคัดเลือกเข้ารับทุนของประเทศญี่ปุ่น</span></span></span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span cordia=\"\"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;<span lang=\"TH\">3.</span></span><span cordia=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=\"TH\">เพิ่มโอกาสในการได้รับพิจารณาเข้าร่วมงานในองค์กรชั้นนำ เช่น บ.พีทีที ไอซีที โซลูชั่นส์ จก.</span>,</span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span lang=\"TH\">บ.ทรู คอร์ปอเรชั่น จก.(มหาชน)</span>,<span class=\"apple-converted-space\">&nbsp;</span><span lang=\"TH\">บ.เอสเอสซี โซลูชั่นส์ จำกัด ฯลฯ</span>&nbsp;<span lang=\"TH\"><br />
+</span><span cordia=\"\">&nbsp;&nbsp;&nbsp;<span lang=\"TH\">4.</span></span><span cordia=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=\"TH\"><span cordia=\"\" new=\"\">เป็นโอกาสสำหรับบุคลากรที่ไม่มีพื้นฐานการศึกษาในสายไอทีมาก่อน แต่มีทักษะ และความสามารถได้ปรับวุฒิให้</span></span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \"><span cordia=\"\" new=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span lang=\"TH\">ตรงตามความสามารถ</span></span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \"><span cordia=\"\" new=\"\"><span cordia=\"\">&nbsp;&nbsp;&nbsp;<span lang=\"TH\">5.</span></span><span cordia=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=\"TH\"><span cordia=\"\" new=\"\">เพิ่มโอกาสในการรับงานจากประเทศต่างๆโดยเฉพาะในกลุ่มสมาชิก</span><span class=\"apple-converted-space\">&nbsp;</span></span><span cordia=\"\" new=\"\">ITPEC&nbsp;</span></span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \"><span cordia=\"\"><span style=\"background-color: white; font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">&nbsp;&nbsp;&nbsp;<span lang=\"TH\">6.</span></span><span cordia=\"\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=\"TH\"><span cordia=\"\" new=\"\">เป็นการพัฒนาความรู้และทักษะอย่างต่อเนื่องให้ตรงกับความต้องการของตลาด</span></span><span cordia=\"\">&nbsp;</span></span></p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">&nbsp;</p>
+<p align=\"right\" class=\"MsoNormal\" style=\"text-align: right; text-indent: -18pt; margin: 0cm 0cm 0pt 26.25pt; \"><strong><u><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">ติดต่อประสานงาน</span></u></strong></p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">อาจารย์ณัฐพล หาญสมุทร</span></p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \"><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">nattapon.ha@up.ac.th</span></p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">สาขาวิศวกรรมซอฟต์แวร์คณะเทคโนโลยีสารสนเทศและการสื่อสาร มหาวิทยาลัยพะเยา</span></p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \">&nbsp;</p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">คุณนภัทร ไชยมงคล</span></p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">งานวิชาการ คณะเทคโนโลยีสารสนเทศและการสื่อสาร มหาวิทยาลัยพะเยา</span></p>
+<p class=\"MsoNormal\" style=\"text-align: right; margin-bottom: 0pt; \"><span lang=\"TH\" style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">โทร&nbsp;</span><span style=\"font-family: \'Cordia New\', sans-serif; font-size: 14pt; \">054-466666&nbsp;<span lang=\"TH\">ต่อ&nbsp;</span>2323</span></p>
+<p>&nbsp;</p>

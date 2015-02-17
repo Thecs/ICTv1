@@ -1,0 +1,99 @@
+<p>&nbsp;<b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">ประกาศด่วน กยศ.คณะ </span></b><b><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">ICT <span lang=\"TH\">รหัส 52</span>,<span lang=\"TH\">53</span>,<span lang=\"TH\">54 รายเก่า ให้มาเซ็นแบบยื่นยันค่าเทอมและค่าครองชีพภาคเรียนที่ 1/2555 ที่ </span>(<span lang=\"TH\">พี่นัท</span>)<span lang=\"TH\"> ในวันที่ดังต่อไปนี้ แยกเป็นสาขาวิชา ตามตารางที่กำหนด </span><u><span style=\"color:red\">(<span lang=\"TH\">ใครไม่มาเซ็นในเวลาที่กำหนดถือว่าสละสิทธิ์ในภาคเรียนนั้น</span>)</span></u></span></b></p>
+<p class=\"MsoNormal\"><b><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">&nbsp;</span></b></p>
+<table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+    mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+    .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext\">
+    <tbody>
+        <tr>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFFF99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">สาขาวิชา<o:p></o:p></span></b></p>
+            </td>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;background:#FFFF99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">วันที่มาเซ็น</span></b><b><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">ภูมิสารสนเทศศาสตร์</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">16 กรกฎาคม 2555<o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#FFCC99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">เทคโนโลยีสารสนเทศ</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFCC99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">17 กรกฎาคม 2555</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#CCFFCC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">วิศวกรรมคอมพิวเตอร์</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CCFFCC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">18 กรกฎาคม 2555</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#CCFFFF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">วิทยาการคอมพิวเตอร์<o:p></o:p></span></p>
+            </td>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CCFFFF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">19 กรกฎาคม 2555</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">คอมพิวเตอร์ธุรกิจ</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"284\" valign=\"top\" style=\"width:213.05pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">20 กรกฎาคม 2555</span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class=\"MsoNormal\"><o:p>&nbsp;</o:p></p>
+<p class=\"MsoNormal\"><span style=\"color: rgb(255, 0, 0); \"><u><b><span lang=\"TH\" style=\"font-size: 16pt; font-family: \'TH Niramit AS\'; \">ตรวจสอบนิสิตที่มีรายชื่อเซ็นแบบยืนยันค่าเทอม คณะ </span><span style=\"font-size: 16pt; font-family: \'TH Niramit AS\'; \">ICT</span></b></u></span><b><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></b></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">- <span lang=\"TH\">สาขาวิชาภูมิสารสนเทศศาสตร์</span><o:p></o:p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">&gt;&gt;&gt;<o:p>&nbsp;<a href=\"http://www.ict.up.ac.th/UserFiles/file/ict9.PDF\"><strong><u>www.ict.up.ac.th/UserFiles/file/ict9.PDF</u></strong></a></o:p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">- <span lang=\"TH\">สาขาวิชาเทคโนโลยีสารสนเทศ</span><o:p></o:p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">&gt;&gt;&gt;<span lang=\"TH\"><o:p>&nbsp;<a href=\"http://www.ict.up.ac.th/UserFiles/file/ict10.PDF\"><u><strong>www.ict.up.ac.th/UserFiles/file/ict10.PDF</strong></u></a></o:p></span></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">- <span lang=\"TH\">สาขาวิชาคอมพิวเตอร์ธุรกิจ</span><o:p></o:p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">&gt;&gt;&gt;<span lang=\"TH\"><o:p><u>&nbsp;</u><a href=\"http://www.ict.up.ac.th/UserFiles/file/ict11.PDF\"><strong><u>www.ict.up.ac.th/UserFiles/file/ict11.PDF</u></strong></a></o:p></span></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">- <span lang=\"TH\">สาขาวิชาวิศวกรรมคอมพิวเตอร์</span><o:p></o:p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">&gt;&gt;&gt;<span lang=\"TH\"><o:p>&nbsp;<a href=\"http://www.ict.up.ac.th/UserFiles/file/ict12.PDF\"><strong><u>www.ict.up.ac.th/UserFiles/file/ict12.PDF</u></strong></a></o:p></span></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">- <span lang=\"TH\">สาขาวิชาวิทยาการคอมพิวเตอร์</span><o:p></o:p></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">&gt;&gt;&gt;<o:p>&nbsp;<a href=\"http://www.ict.up.ac.th/UserFiles/file/ict13.PDF\"><strong><u>www.ict.up.ac.th/UserFiles/file/ict13.PDF</u></strong></a></o:p></span></p>
+<p class=\"MsoNormal\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\">- รายชื่อนิสิตที่ยังไม่กรอกในระบบ </span><span style=\"font-size:16.0pt;
+font-family:&quot;TH Niramit AS&quot;\">e studentloan<span lang=\"TH\"> แบบใหม่<o:p></o:p></span></span></p>
+<p class=\"MsoNormal\"><span style=\"font-size:18.0pt;font-family:&quot;TH Niramit AS&quot;\">&gt;&gt;&gt;<o:p>&nbsp;<a href=\"http://www.ict.up.ac.th/UserFiles/file/ict8.PDF\"><strong><u>www.ict.up.ac.th/UserFiles/file/ict8.PDF</u></strong></a></o:p></span></p>

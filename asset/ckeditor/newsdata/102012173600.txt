@@ -1,0 +1,424 @@
+<p style=\"text-align: center; \">&nbsp;</p>
+<p><span style=\"font-size: xx-small; \">
+<p style=\"text-align: center; \">&nbsp;</p>
+</span><span style=\"font-size: small; \">
+<p style=\"text-align: center; \">&nbsp;<b style=\"text-align: center; \"><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">แจ้งกำหนดการตรวจสุขภาพนิสิตชั้นปีที่ 1 คณะเทคโนโลยีสารสนเทศและการสื่อสาร</span></b></p>
+</span></p>
+<p class=\"MsoNormal\" style=\"text-align: center; \"><span style=\"font-size: small; \"><b><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">ณ ศูนย์การแพทย์ มหาวิทยาลัยพะเยา ดังเวลาตามตารางที่กำหนดไว้นี้</span></b></span><b><span lang=\"TH\" style=\"font-size:18.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></b></p>
+<p>
+<table class=\"MsoTableGrid\" border=\"1\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\" width=\"619\" style=\"width:464.4pt;border-collapse:collapse;border:none;
+    mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:480;mso-table-lspace:
+    9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:6.75pt;
+    mso-table-anchor-vertical:page;mso-table-anchor-horizontal:margin;mso-table-left:
+    center;mso-table-top:117.05pt;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+    .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext\">
+    <tbody>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF9900;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วันที่</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;background:#FF9900;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">สาขาวิชา</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;background:#FF9900;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">จำนวน</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border:solid windowtext 1.0pt;
+            border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+            solid windowtext .5pt;background:#FF9900;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">เวลา</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">25 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><span lang=\"TH\"><o:p></o:p></span></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">คอมพิวเตอร์ธุรกิจ</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">57</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">09.00 -10.00 น.</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">25 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">เทคโนโลยีสารสนเทศ</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">56</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FF99CC;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">10.00 - 11.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#FFCC99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">26 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFCC99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">คอมพิวเตอร์ธุรกิจ</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFCC99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">50</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFCC99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">11.00 - 12.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#FFFF99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">27 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFFF99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วิศวกรรมคอมพิวเตอร์</span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFFF99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">40</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#FFFF99;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">13.00 - 14.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">28 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วิทยาการคอมพิวเตอร์</span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">40</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">09.00 - 10.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">28 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วิศวกรรมคอมพิวเตอร์</span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">40</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">13.00 - 14.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:7;height:3.5pt\">
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt;height:3.5pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">28 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt;
+            height:3.5pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วิศวกรรมซอฟต์แวร์</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt;
+            height:3.5pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">36</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#99CC00;padding:0cm 5.4pt 0cm 5.4pt;
+            height:3.5pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">15.00 - 16.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">29 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วิทยาการคอมพิวเตอร์</span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">31</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">09.00 - 10.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">29 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">ภูมิสารสนเทศศาสตร์</span></strong></span><span style=\"font-size:
+            16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">39</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">11.00 - 12.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td width=\"114\" valign=\"top\" style=\"width:85.2pt;border:solid windowtext 1.0pt;
+            border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+            background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">29 มิ</span><span style=\"font-family: \'TH Niramit AS\'; \">.<span lang=\"TH\">ย 2555</span></span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"230\" valign=\"top\" style=\"width:172.2pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">วิศวกรรมสารสนเทศและการสื่อสาร</span></strong></span><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"120\" valign=\"top\" style=\"width:90.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">38</span></strong></span><span style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"156\" valign=\"top\" style=\"width:117.0pt;border-top:none;border-left:
+            none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+            mso-border-alt:solid windowtext .5pt;background:#CC99FF;padding:0cm 5.4pt 0cm 5.4pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"text-align:center;mso-element:frame;
+            mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
+            page;mso-element-anchor-horizontal:margin;mso-element-left:center;mso-element-top:
+            117.05pt;mso-height-rule:exactly\"><span style=\"font-size: small; \"><strong><span lang=\"TH\" style=\"font-family: \'TH Niramit AS\'; \">13.00 - 14.00 น.</span></strong></span><span lang=\"TH\" style=\"font-size:16.0pt;
+            font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><b><span lang=\"TH\" style=\"font-size:18.0pt;font-family:&quot;TH Niramit AS&quot;\"><o:p></o:p></span></b></p>

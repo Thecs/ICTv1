@@ -1,0 +1,238 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 16 ก.ค. 2557, 12:58:56
+    Author     : warintorn.so
+*/
+
+
+.menu-layout{
+    margin-bottom: -10px;
+}
+.panel-heading{
+    
+}
+.dropdown-menu.multi-column {
+    width: 400px;
+}
+ 
+.dropdown-menu.multi-column .dropdown-menu {
+    display: block !important;
+    position: static !important;
+    margin: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.divider_major{
+	margin-top: 32px;
+}
+.data{
+    margin-top: -100px;
+}
+.jumbotron-pin-b{
+    margin-top:30px !important;
+    -moz-box-shadow: 5px 5px 5px #ccc;
+    -webkit-box-shadow: px 5px 5px #ccc;
+    box-shadow: 0px 0px 5px 5px #ccc;
+	width:100%;
+	height:auto;
+	bottom: 0;
+}
+.jumbotron-pin-t {
+    -moz-box-shadow: 5px 5px 5px #ccc;
+    -webkit-box-shadow: 5px 5px 5px #ccc;
+    box-shadow: 0px 0px 5px 5px #ccc;
+}
+.row-center{
+    float: center;
+}
+.admin-head{
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+#custom-search-input {
+    margin:0;
+    margin-top: 10px;
+    padding: 0;
+}
+
+#custom-search-input .search-query {
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 3px;
+    padding-left: 4px \9;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#custom-search-input button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: -28px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color:#D9230F;
+}
+
+.search-query:focus + button {
+    z-index: 3;   
+}
+.panel-width{
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+
+}
+.panel-heading-a{
+    background-color: #A891C9;
+    border-color: #895FC9;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.panel-title{
+    color: #fff;
+}
+.panel-title-download :hover{
+    color: #333333;
+    font-size: 14px;
+
+}
+.panel-title-download {
+    color: #333333;
+    font-size: 14px;
+
+}
+.text_img_title{
+    font-size: 12px;
+    color: #652D90;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.text_board{
+    color: #777777;
+}
+.news_box{
+    background-color: #C1ADDE;
+    padding:10px;
+    margin-top: 15px;
+    border-color:#CCCCCC;
+    margin-bottom: 20px;
+}
+.social_box{
+    background-color: #C1ADDE;
+    padding:10px;
+    margin-top: 15px;
+    border-color:#CCCCCC;
+    margin-bottom: 20px;
+}
+.video_box{
+    background-color: #C1ADDE;
+    padding:10px;
+    margin-top: 15px;
+    border-color:#CCCCCC;
+    margin-bottom: 20px;
+}
+@media only screen and (min-width : 992px){
+    .video_box{
+        margin-left: -15px;
+    }
+}
+@media only screen and (max-width : 1366px){
+    .max-width{
+        width:90%;
+    }
+}
+@media only screen and (max-width : 1024px){
+    .max-width{
+        width:99%;
+    }
+}
+@media only screen and (min-width : 1367px){
+    .max-width{
+        width:75%;
+    }
+}
+        
+a:hover{
+    color: #555555;
+}
+.margin-pin{
+    margin-top: 10px;
+    background-color: #8D66C9;
+    color: #fff;
+
+}
+.text-pin{
+    color: #fff;
+}
+.text-pin:hover{
+    color: #652D90;
+    background-color: #fff;
+}
+@font-face {
+	/*“Tahoma, MS Sans Serif, Thonburi”*/
+	
+    font-family: 'Sukhumvit';
+    src: url('template1/fonts/Sukhumvit Set Medium.eot'); /* IE9 Compat Modes */
+    src: url('template1/fonts/Sukhumvit Set Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('template1/fonts/Sukhumvit Set Medium.woff') format('woff'), /* Modern Browsers */
+    url('template1/fonts/Sukhumvit Set Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('template1/fonts/Sukhumvit Set Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-size : 10px;
+}
+
+body {
+    font-family: 'Sukhumvit';
+    font-size:12px !important;
+}
+.site-name {
+    font-family: 'Sukhumvit';
+}
+.pin-link{
+    font-size: 14px;
+}
+.inp-search{
+    height:81px;
+}
+.dropdown-menu{
+    font-size:12px;
+}
+.view_pr_news{
+    font-family: 'Sukhumvit';
+    width:auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size:small !important;
+}
+.title_pr_news{
+    margin-left:50px;
+    margin-bottom:20px;
+}
+.bg{
+    background-color:#777777;
+}
+.news_pr_foot{
+    padding-left:50px;
+}
+.map-board{
+	margin-left : 20px;
+	margin-bottom : 40px;
+	
+}

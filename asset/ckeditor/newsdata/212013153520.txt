@@ -1,0 +1,9 @@
+<p><strong><span style=\"font-size: medium;\">กำหนดการวันปฐมนิเทศนิสิตที่เข้าร่วมโครงการ และวันเริ่มอบรม โครงการบ่มเพาะและเตรียมความพร้อมบุคลากรเพื่อป้อนสู่อุตสาหกรรมปี 2556</span></strong></p>
+<p><span style=\"font-size: medium;\"><br type=\"_moz\" />
+</span></p>
+<p><span style=\"font-size: medium;\">- วันปฐมนิเทศนิสิตที่เข้าร่วมโครงการ โดยให้นิสิตที่เข้าร่วมโครงการ พร้อมกันในวัน จันทร์ ที่ 27 พฤษภาคม พ.ศ. 2556 เวลา 9.30 - 12.30 น. ห้อง ICT 1108</span></p>
+<p><span style=\"font-size: medium;\">- แจ้งวันเริ่มอบรม 3 หลักสูตร<span class=\"Apple-tab-span\" style=\"white-space: pre;\">		</span></span></p>
+<ul>
+    <li><span style=\"font-size: medium;\">หลักสูตร Java Programming และหลักสูตร PHP Programming&nbsp;วัน จันทร์ ที่ 27 พฤษภาคม พ.ศ. 2556 เวลา 13.00 น. เป็นต้นไป &nbsp;</span></li>
+    <li><span style=\"font-size: medium;\">หลักสูตร CMMI และ Software Testing ภายในเดือน มิถุนายน (จะแจ้งให้ทราบภายหลัง)</span></li>
+</ul>

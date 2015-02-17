@@ -1,0 +1,493 @@
+<p><span style=\"color: rgb(255, 0, 255);\"><span style=\"font-size: x-large;\">***ประกาศผลนิสิตที่ได้รับทุน กยศ.รายใหม่ และ กรอ คณะ ICT</span></span></p>
+<p><span style=\"color: rgb(255, 0, 0);\"><span style=\"font-size: x-large;\">***ในปีทางคณะได้โคว์ต้าที่ได้รับการจัดสรรที่เป็น กยศ. กลุ่มวิทยาศาสตร์ &nbsp;จำนวน 37 คน กลุ่มสังคม จำนวน 4 คน สำหรับคนที่ไม่ได้ กยศ.ทางคณะจะให้กู้ กรอ. แทน</span></span></p>
+<table x:str=\"\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"694\" style=\"border-collapse:
+    collapse;width:522pt\">
+    <colgroup><col width=\"64\" style=\"width:48pt\" />  <col width=\"109\" style=\"mso-width-source:userset;mso-width-alt:3986;width:82pt\" />  <col width=\"206\" style=\"mso-width-source:userset;mso-width-alt:7533;width:155pt\" />  <col width=\"234\" style=\"mso-width-source:userset;mso-width-alt:8557;width:176pt\" />  <col width=\"81\" style=\"mso-width-source:userset;mso-width-alt:2962;width:61pt\" />  </colgroup>
+    <tbody>
+        <tr height=\"37\" style=\"height:27.75pt\">
+            <td colspan=\"5\" height=\"37\" class=\"xl29\" width=\"694\" style=\"height: 27.75pt; width: 522pt; text-align: center;\"><span style=\"font-size: x-large;\">สรุปคะแนนนิสิตที่มาสัมภาษณ์ กยศ.รายใหม่ ปี 2556</span></td>
+        </tr>
+        <tr height=\"37\" style=\"height:27.75pt\">
+            <td colspan=\"5\" height=\"37\" class=\"xl29\" style=\"height: 27.75pt; text-align: center;\"><span style=\"font-size: x-large;\">กลุ่ม สังคม</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl22\" style=\"height:24.75pt\">ที่</td>
+            <td class=\"xl22\" style=\"border-left:none\">รหัสนิสิต</td>
+            <td class=\"xl22\" style=\"border-left:none\">ชื่อ-สกุล</td>
+            <td class=\"xl22\" style=\"border-left:none\">สาขาวิชา</td>
+            <td class=\"xl22\" style=\"border-left:none\">ประเภททุน</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">1</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">54022687</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายอภิสิทธิ์   เนื่องกันยา</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">คอมพิวเตอร์ธุรกิจ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">2</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55020989</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาววิรากร   ตันยี่</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">คอมพิวเตอร์ธุรกิจ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">3</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">54021451</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายภาคภูมิ   อาสา</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">คอมพิวเตอร์ธุรกิจ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">4</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">54021439</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายพูลสวัสดิ์   ใจซื่อ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">คอมพิวเตอร์ธุรกิจ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">5</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020148</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายชัยยากร   ธะนุ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">6</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020159</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายชิดณรงค์   เสืออินทร์</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">7</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020597</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายสาริน   มาจันทร์</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">8</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56023275</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวชลิตา   แก้วลาว</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">9</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020654</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวสุทธิดา   จอมคำ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">10</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020621</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายสิทธิพงษ์   สอนบุญเกิด</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">11</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020047</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายกฤษณะลักษณ์   ธิลาใจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">12</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020092</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายจิตรทิวัส   บุญคล่ำ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">13</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020306</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวบุษยพรรณ   มณีวรรณ์</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">14</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020643</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวสุจิวรรณ   พะโยม</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">15</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020340</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายพงศกร   ลีรัก</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">16</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020542</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายศุภชัย   เครือมูล</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">17</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020485</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายวัชรพงค์   คำวัง</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">18</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020058</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายกายสิทธิ   อุปปิง</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">19</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020610</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นายสิทธิโชค   เทพศรีทอง</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl25\" style=\"height:24.75pt;border-top:none\" x:num=\"\">20</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\" x:num=\"\">56020632</td>
+            <td class=\"xl26\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวสิริภา   สาตรี</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">คอมพิวเตอร์ธุรกิจ</td>
+            <td class=\"xl25\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"37\" style=\"height:27.75pt\">
+            <td colspan=\"5\" height=\"37\" class=\"xl30\" style=\"border-right-width: 0.5pt; border-right-style: solid; border-right-color: black; height: 27.75pt; text-align: center;\"><span style=\"font-size: x-large;\">กลุ่ม วิทยาศาสตร์</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl22\" style=\"height:24.75pt;border-top:none\">ที่</td>
+            <td class=\"xl22\" style=\"border-top:none;border-left:none\">รหัสนิสิต</td>
+            <td class=\"xl22\" style=\"border-top:none;border-left:none\">ชื่อ-สกุล</td>
+            <td class=\"xl22\" style=\"border-top:none;border-left:none\">สาขาวิชา</td>
+            <td class=\"xl22\" style=\"border-top:none;border-left:none\">ประเภททุน</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">1</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55023544</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวสุทธินี   หลักคำ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมซอฟต์แวร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">2</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55023836</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวพรประภา   วุฒิศรี</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมสารสนเทศและการสื่อสาร</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">3</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021138</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวรัชนี   ค้าไป</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีสารสนเทศ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">4</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55024455</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายทณาทัศน์   กิจพิทักษ์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีสารสนเทศ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">5</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56025244</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายศรราม   ลาดปะละ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">6</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55023690</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวจุฑามาศ   ช้างแก้ว</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมสารสนเทศและการสื่อสาร</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">7</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56022421</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายณัฐพล   หน่อคำหล้า</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">8</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56022522</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวบุษกร   ขันเครือ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">9</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021958</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายพิษณุวัฒน์   สมศรี</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">10</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021789</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายณัฐพงษ์   ศรีนวล</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">11</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56022218</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายอดิเทพ   แก้วลูน</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">12</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56023051</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายสยามรัฐ   แก้วตา</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมซอฟต์แวร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">13</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56023714</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายสิรวิชญ์   วาหวัฒโนดม</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมสารสนเทศและการสื่อสาร</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">14</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55025861</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวเมธาวี   กำไร</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีสารสนเทศ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">15</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021330</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายอดิศร   ทาระจีน</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีสารสนเทศ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">16</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021802</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายตรัณ   วรรรสอน</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">17</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021891</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายเบ็ญจมินทร์   แจ้งจำรัส</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">18</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56025424</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายพงศกร   ไชยปัญญา</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมซอฟต์แวร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">19</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55025007</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวกมลลักษณ์   พั่วพันธ์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">20</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021824</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายทศพร   กิมขาว</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">21</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">54022384</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวสุกัญญา   ธาตุอินจันทร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">22</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56025378</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายวรพล   บุญช่วย</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">23</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56025727</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายณัฐพงศ์   เครือจิต</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีคอมพิวเตอร์เคลื่อนที่</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">24</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56023668</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายอาทิตย์   ถาตุ่ม</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมซอฟต์แวร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">25</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021554</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวภานุมาศ   วงศ์ษา</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">ภูมิสารสนเทศศาสตร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">26</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56024748</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายกรีฑา   ขัติวงศ์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">ภูมิสารสนเทศศาสตร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">27</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55022644</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายปรัชญา   ปันอินทร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">28</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55022778</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายไพรเพชร   หิตการุญ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">29</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56022443</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายดำรงฤทธิ์   เสกสิทธิ์วรกุล</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">30</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">55023814</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวปิยธิดา   มูลเมือง</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมสารสนเทศและการสื่อสาร</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">31</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021262</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายศักดิ์นรินทร์   กลิ่นหอม</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีสารสนเทศ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">32</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56024849</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายพิศุทธ์   พันธ์สืบ</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">ภูมิสารสนเทศศาสตร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">33</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56021767</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายณพนันท์   เรืองกัณฑ์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">34</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56022230</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายอวิรุทธ์   ฤทธิ์ศักดิ์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">35</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56025097</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นางสาวกรรณิการ์   นิลสุวรรณ์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิทยาการคอมพิวเตอร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">36</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56023028</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายวันเฉลิม   กันทะวงค์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">วิศวกรรมซอฟต์แวร์</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl23\" style=\"height:24.75pt;border-top:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">37</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\" x:num=\"\"><span style=\"background-color: rgb(255, 204, 153);\">56023769</span></td>
+            <td class=\"xl24\" align=\"left\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">นายอดิสรณ์   ฉ่ำกมล</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">เทคโนโลยีคอมพิวเตอร์เคลื่อนที่</span></td>
+            <td class=\"xl23\" style=\"border-top:none;border-left:none\"><span style=\"background-color: rgb(255, 204, 153);\">กยศ.</span></td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">38</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56021307</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายสุนันท์   ปัญญา</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">เทคโนโลยีสารสนเทศ</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">39</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56021655</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายเขมรัฐ   ฟักเขียว</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">วิทยาการคอมพิวเตอร์</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">40</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56020889</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายทัตพงศ์   ใจแก้ว</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">เทคโนโลยีสารสนเทศ</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">41</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56021396</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายอรรถพล   สัจจะพจน์</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">เทคโนโลยีสารสนเทศ</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">42</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56021510</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายธีรพงศ์   วิฑูรย์</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">ภูมิสารสนเทศศาสตร์</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">43</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56023231</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวอารียา   นรการ</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">เทคโนโลยีสารสนเทศ+อังกฤษ</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">44</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56024827</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นางสาวเบญจพร   พันธ์สาง</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">ภูมิสารสนเทศศาสตร์</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">45</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56022645</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายยุทธพิชัย   ณ ลำปาง</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">วิศวกรรมคอมพิวเตอร์</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+        <tr height=\"33\" style=\"height:24.75pt\">
+            <td height=\"33\" class=\"xl27\" style=\"height:24.75pt;border-top:none\" x:num=\"\">46</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\" x:num=\"\">56025851</td>
+            <td class=\"xl28\" align=\"left\" style=\"border-top:none;border-left:none\">นายภูธเนศ   พิยะ</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">วิศวกรรมสารสนเทศและการสื่อสาร</td>
+            <td class=\"xl27\" style=\"border-top:none;border-left:none\">กรอ</td>
+        </tr>
+    </tbody>
+</table>

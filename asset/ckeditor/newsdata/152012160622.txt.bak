@@ -1,0 +1,245 @@
+<script src=\"co-operative/SpryAssets/SpryTabbedPanels.js\" type=\"text/javascript\"></script>
+<p>
+<link href=\"co-operative/SpryAssets/SpryTabbedPanels.css\" rel=\"stylesheet\" type=\"text/css\" />  <style type=\"text/css\">
+
+<!--
+
+.style9 {color: #FF0000}
+
+.style10 {
+
+	color: #0000FF;
+
+	font-weight: bold;
+
+}
+
+.style13 {color: #FF0000; font-weight: bold; }
+
+.style15 {color: #009900; font-weight: bold; }
+
+.style18 {color: #0000FF}
+
+.style19 {color: #009900}
+
+-->
+
+</style></p>
+<div id=\"TabbedPanels1\" class=\"TabbedPanels\">
+<ul class=\"TabbedPanelsTabGroup\">
+    <li class=\"TabbedPanelsTab\" tabindex=\"0\">ข่าวประชาสัมพันธ์</li>
+    <li class=\"TabbedPanelsTab\" tabindex=\"0\">โครงการ SIPA คืออะไร?</li>
+    <li class=\"TabbedPanelsTab\" tabindex=\"0\">สหกิจศึกษาคืออะไร ?</li>
+    <li class=\"TabbedPanelsTab\" tabindex=\"0\">ดาวน์โหลดเอกสาร</li>
+	<li class=\"TabbedPanelsTab\" tabindex=\"0\">ดาวน์โหลดเอกสาร (สหกิจศึกษา)</li>
+
+</ul>
+<div class=\"TabbedPanelsContentGroup\">
+<div class=\"TabbedPanelsContent\"><fieldset>   	<legend>   ข่าวประชาสัมพันธ์  </legend>
+<dl>
+    <dt><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">::ประกาศ</span></strong><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">ตารางจัดอบรมโครงการบ่มเพาะและพัฒนาบุคลากรเพื่อป้อนสู่ภาคอุตสาหกรรม หลักสูตร JAVA Programming ณ ห้อง ICT 1104/1 </span></strong><input type=\"image\" src=\"http://www.ict.up.ac.th/2012/co-operative/news.gif\" /></dt>
+    <dt>- ตารางอบรม หลักสูตร java Programming >> <a href="/UserFiles/file/java_schedule.pdf"><strong>Download</strong></a></dt>
+    <dt>- รายละเอียด หลักสูตรอบรม แยกตามหัวข้อ >> <a href="/UserFiles/file/detail_allcouse.pdf"><strong>Download</strong></a></dt>
+    <hr />	
+    <dt><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">::ประกาศ</span></strong><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">กำหนดการวันปฐมนิเทศนิสิตที่เข้าร่วมโครงการ และวันเริ่มอบรม โครงการบ่มเพาะและเตรียมความพร้อมบุคลากรเพื่อป้อนสู่อุตสาหกรรมปี 2556</span></strong><input type=\"image\" src=\"http://www.ict.up.ac.th/2012/co-operative/news.gif\" /></dt>
+    <dt>- วันปฐมนิเทศนิสิตที่เข้าร่วมโครงการ โดยให้นิสิตที่เข้าร่วมโครงการ พร้อมกันในวัน จันทร์ ที่ 27 พฤษภาคม พ.ศ. 2556 เวลา 9.30 - 12.30 น. ห้อง ICT 1108</dt></br>
+    <dt>- แจ้งวันเริ่มอบรม 3 หลักสูตร</dt>
+    <dd>- หลักสูตร Java Programming และหลักสูตร PHP Programming วัน จันทร์ ที่ 27 พฤษภาคม พ.ศ. 2556 เวลา 13.00 น. เป็นต้นไป</dd>
+    <dd>- หลักสูตร CMMI และ Software Testing ภายในเดือน มิถุนายน (จะแจ้งให้ทราบภายหลัง)</dd>
+    <hr />
+    <dt><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">::ประกาศ</span></strong><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">ประกาศรายชื่อผู้ผ่านเข้าร่วมอบรม</span></strong><input type=\"image\" src=\"http://www.ict.up.ac.th/2012/co-operative/news.gif\" /></dt>
+    <dt>ประกาศรายชื่อผู้ผ่านเข้าร่วมอบรม โครงการบ่มเพาะและเตรียมความพร้อมบุคลากรเพื่อป้อนสู่อุตสาหกรรมปี 2556 <strong><a href="/UserFiles/file/sp56.pdf">คลิกที่นี่</a></strong></span></dt>
+    <hr />
+    <dt><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">::ประกาศ</span></strong><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">ห้องอบรม PHP</span></strong></dt>
+    <dt>นิสิตที่ร่วมโครงการ SIPA ในหลักสูตร PHP ในวันเสาร์ที่ 1 อบรมที่ห้อง ICT1103 และในวันอาทิตย์ที่ 2 อบรมที่ห้อง ICT1102/1</dt>
+    <dt>เริ่มอบรมเวลา 9.00 น. ทั้ง 2 วัน</dt>
+    <hr />
+    <dt><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">::ประกาศ</span></strong><strong style=\"font-size: 14px; \"><span style=\"color: rgb(255, 0, 0); \">ตารางอบรม&nbsp;<span style=\"font-family: arial, sans-serif; \">หลักสูตร PHP</span></span></strong></dt>
+    <dt>สามารถดาวน์โหลดได้ที่นี่ครับ &gt;&gt;&nbsp;<a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/Course_PHP_25_8_55.xlsx\">Download</a></dt>
+    <hr />
+    <dt><span style=\"font-size: larger; \"><strong><span style=\"color: rgb(255, 0, 0); \">::ประกาศตารางอบรม&nbsp;<span style=\"font-family: arial, sans-serif; \">หลักสูตร JAVA Programming</span></span></strong></span></dt>
+    <dt>สามารถดาวน์โหลดได้ที่นี่ครับ &gt;&gt; <a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/Java_course_22_8_55.xlsx\">Download</a></dt>
+    <hr />
+    <dt><span style=\"color: rgb(255, 0, 0); \"><strong><span style=\"font-size: larger;\">::ประกาศถึงผู้เข้าอบรมหลักสูตร PHP</span>&nbsp;</strong></span></dt>
+    <dt>หลักสูตร PHP งดการอบรมในวัน เสาร์และอาทิตย์ ที่ 17-18 สิงหาคม พ.ศ.2555</dt>
+    <hr />
+    <dt><span style=\"font-size: larger; \"><span style=\"color: rgb(255, 0, 0); \"><strong>::ประกาศ<span style=\"font-family: arial, sans-serif; \">แจ้งเปลี่ยนแปลงเวลา อบรม SIPA&nbsp;</span></strong></span></span></dt>
+    <dt><span style=\"font-size: 10pt; color: rgb(34, 34, 34); font-family: arial, sans-serif; \">หลักสูตร JAVA Programming เดิม </span><span style=\"color: rgb(128, 0, 0); \"><u><strong><span style=\"font-size: 10pt; font-family: arial, sans-serif; \">วันศุกร์ที่ 10 ส.ค. 55 เวลา 13:00 - 15:00</span></strong></u></span></dt>
+    <div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 13px; \">ไปเป็น&nbsp; &nbsp;<span style=\"color: rgb(255, 0, 0); \"><u><strong>วันศุกร์ที่ 10 ส.ค. 55 เวลา<font style=\"font-weight: bold; \">&nbsp;9:00 - 13:00</font></strong></u></span></div>
+    <hr />
+    <dt><strong><span style=\"color: rgb(255, 0, 0); \"><span style=\"font-size: larger; \">::สำหรับผู้เข้าโครงการในหลักสูตร JAVA Programming ให้ท่านกรอกข้อมูลตามแบบสอบถามดังนี้&nbsp;</span></span></strong></dt>
+    <dt>-กรอกข้อมูลตามลิ้งค์นี้ครับ</dt>
+    <dt><a href=\"https://docs.google.com/spreadsheet/viewform?formkey=dEdicXZqU1MtWDhfclhieThJWklQbHc6MQ#gid=0\">https://docs.google.com/spreadsheet/viewform?formkey=dEdicXZqU1MtWDhfclhieThJWklQbHc6MQ#gid=0</a> </dt>
+    <hr />
+    <dt><strong><span style=\"font-size: larger; \"><span style=\"color: rgb(255, 0, 0); \">::ข่าวประกาศตารางอบรมโครงการ SIPA ในหลักสูตร JAVA และ PHP&nbsp;</span></span></strong></dt>
+    <dt>-ตารางอบรมของหลักสูตร JAVA &nbsp;&gt;&gt; <a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/SIPA-JAVA-SD\">Download</a></dt>
+    <dt>-ตารางอบรมของหลักสูตร PHP &nbsp;&gt;&gt; <a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/SIPA-PHP-SD\">Download </a></dt>
+    <hr />
+    <dt><strong style=\"color: rgb(255, 0, 0); \">::</strong><span style=\"color: rgb(255, 0, 0); font-size: larger; \"><strong>ประกาศผลผู้ผ่านการคัดเลือกเข้าโครงการ SIPA&nbsp;</strong></span> &nbsp;<span style=\"color: rgb(255, 0, 0); font-size: larger; \"><strong><br />
+    </strong></span><span style=\"font-size: xx-small; \"><span style=\"color: rgb(255, 0, 0); \">&nbsp;</span></span><span style=\"font-size: small; \">- รายชื่อผู้ผ่านการคัดเลือกเข้าโครงการในหลักสูตร JAVA </span><strong><span style=\"color: rgb(0, 0, 255); \"><span style=\"font-size: small; \">(30 คน)</span></span></strong></dt>
+    <dt>&nbsp; &nbsp; ดูรายชื่อ &gt;&gt;&gt; <a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/SIPA-JAVA\">Download</a></dt>
+    <dt>     </dt>
+    <dt><span style=\"font-size: small; \">- รายชื่อผู้ผ่านการคัดเลือกเข้าโครงการในหลักสูตร PHP&nbsp;</span><strong><span style=\"color: rgb(0, 0, 255); \"><span style=\"font-size: small; \">(33 คน)</span></span></strong></dt>
+    <dt>&nbsp; &nbsp; ดูรายชื่อ &gt;&gt;&gt; <a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/SIPA-PHP\">Download</a></dt>
+    <dt><br type=\"_moz\" />
+    </dt>
+    <dt>ประกาศเมื่อวันที่ <u><span style=\"font-size: larger; \"><strong><span style=\"color: rgb(255, 0, 0); \">16/07/2555</span></strong></span></u></dt>
+    <hr />
+    <dt><span style=\"font-size: larger; \">::แจ้งกำหนดการสอบ&nbsp;โครงการ SIPA และสหกิจศึกษา</span></dt>
+    <dt>&nbsp; &nbsp;<span style=\"font-size: larger; \">- สอบวันที่ 3 / 7 / 2555</span></dt>
+    <dt><span style=\"font-size: larger; \">&nbsp; &nbsp;- สอบข้อเขียน ณ ห้อง ICT1107 เวลา 16.30 (เวลาสอบ 1 ชั่วโมง)</span></dt>
+    <dt><span style=\"font-size: larger; \">&nbsp; &nbsp;- สอบสัมภาษณ์ ณ ห้องประชุมดอกคำใต้&nbsp;</span></dt>
+    <hr />
+    <dt><br type=\"_moz\" />
+    </dt>
+    <dt><span style=\"font-size: small; \">::ขยายเวลาการรับสมัครเข้าร่วมโครงการจากวันที่ 25 มิถุนายน 2555 เป็นวันที่ 2 กรกฎาคม 2555 </span></dt>
+    <dt><span style=\"font-size: small; \">&nbsp; &nbsp;และ สอบข้อเขียนพร้อมสอบสัมภาษณ์วันที่ 3&nbsp;กรกฎาคม 2555 (เรื่องประกาศผลการสอบจะแจ้ง</span></dt>
+    <dt><span style=\"font-size: small; \">&nbsp; &nbsp;ให้ทราบภายหลัง)&nbsp;</span></dt>
+    <hr />
+    <dt><br type=\"_moz\" />
+    </dt>
+    <dt> :: <span class=\"style10\">รับสมัครนิสิต</span>เข้าร่วมโครงการ SIPA และสหกิจศึกษาถึง<span class=\"style13\">วันจันทร์ที่ 25 มิถุนายน 2555</span> ส่งใบสมัครได้ที่พี่เอ๋ <span class=\"style10\">ห้องสำนักงานเลขาฯคณะ ICT</span> ได้ถึงเวลา <span class=\"style13\">12:00 น</span></dt>
+    <hr />
+    <dt><br type=\"_moz\" />
+    </dt>
+    <dt> :: <span class=\"style10\">สอบข้อเขียน Pre-test </span>ใน<span class=\"style9\"><strong>วันอังคาร์ที่ 26 มิถุนายน 2555 เวลา 16:30-17:30 น.</strong></span>และ <span class=\"style9\"><strong>สอบสัมภาษณ์ต่อเวลา 17:30 น. </strong></span>เป็นต้นไป</dt>
+    <dd class=\"style9\">** สอบห้อง <strong>ICT 1107 , ICT 1111</strong> ประกาศรายชื่อและห้องสอบวัน<span class=\"style18\">อังคาร์ที่ 26 มิถุนายน 2555</span> **</dd>
+    <dd>- <strong>ข้อสอบ Pre-test </strong>บริษัท ซอฟต์อินเตอร์ เชียงราย จำกัด ประกอบด้วย 3 ส่วน 1. แนวคิดเกี่ยวกับ OOP และ Java Programming 2. คำสั่ง SQL  3. แบบทดสอบลักษณะนิสัย</dd>
+    <dd>- <strong>ข้อสอบ Pre-test </strong>บริษัท อินโฟโทรนิคส์ จำกัด ประกอบด้วย ...........</dd>
+    <dd>--- <span class=\"style15\">ผู้ที่ผ่านการสอบ</span><span class=\"style19\"> Pre-test จะเข้ารับการ<strong> อบรมเพื่อเตรียมความพร้อมจากคณะฯและบริษัท</strong></span> ---</dd>
+</dl>
+<dl>
+    <dd> </dd>
+    <hr />
+    <dt> :: <span class=\"style10\">นิสิตที่ประสงค์เข้าร่วม</span>โครงการ SIPA สามารถ<span class=\"style10\">ดาว์นโหลดแบบฟอร์มใบสมัคร</span>ได้ ที่นี่&nbsp;</dt>
+</dl>
+</fieldset><br />
+<fieldset>   	<legend>  บริษัทที่เข้าร่วมโครงการ SIPA และสหกิจศึกษา  </legend>
+<dl>
+    <dt> :: <span class=\"style15\">บริษัท อินโฟโทรนิคส์ จำกัด</span> (<a href=\"http://www.infotronics.co.th/\">ข้อมูลบริษัท</a>) <img src=\"co-operative/news.gif\" width=\"29\" height=\"10\" alt=\"\" /></dt>
+    <dd>- รับสมัครนิสิตพัฒนาซอฟต์แวร์ด้วยภาษา <span class=\"style10\">PHP </span><span class=\"style9\"><strong>จำนวน 20 คน</strong></span></dd>
+</dl>
+<dl style=\"margin-left: 40px; \"><span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">1.ฝึกงา่นการวิเคราะห์และออกแบบระบบ (System Analysis And Design)&nbsp;</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">2.ฝึกทางด้านการเขียนโปรแกรม&nbsp;</span><strong style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">vb.net , asp.net , c# , PHP , Java&nbsp;</strong><span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">(Hardcore Programmer )</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">3.ฝึกงานด้านการทดสอบ Software (Software Testing)</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">4.ฝึกงานด้าน Process ในการผลิต Software (Software Process Engineer)</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">5.ฝึกงานด้านเอกสารประกอบการผลิต software (Software Documentation)&nbsp;</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">6.ฝึกงานด้านการทำ Website (รับสาขาใดๆก้อได้ที่มีความสามารถในการทำ Website + Graphic + Flash Animation) (Web Design and Development)&nbsp;</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">7.ฝึกงานด้านเครือข่าย Internet และอุปกรณ์ด้าน Network เช่น Swith , Router , Firewall , Load Balance , VPN (Network Engineer)</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">8.ฝึกงานด้านการบริหารโครงการพัฒนา Software (Software Project Management)</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">9.ฝึกงานด้าน Application Support</span><br style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \" />
+    <span style=\"font-family: Tahoma; font-size: 11px; text-align: -webkit-left; \">10.ฝึกงานด้านพัฒนาเกมคอมพิวเตอร์ และเกมมือถือ</span> </dl>
+    <dl>
+        <dd></dd>
+        <dt> :: <span class=\"style15\">บริษัท ซอฟต์อินเตอร์ เชียงราย จำกัด</span> ในเครือ บริษัท ซอฟต์ สแควร์ 1999 จำกัด (<a href=\"http://www.softsquaregroup.com/\">ข้อมูลบริษัท</a>) <img src=\"co-operative/news.gif\" width=\"29\" height=\"10\" alt=\"\" /></dt>
+        <dd>- รับสมัครนิสิตพัฒนาซอฟต์แวร์ด้วยภาษา <span class=\"style10\">JAVA </span><span class=\"style9\"><strong>จำนวน 20 คน</strong></span></dd>
+        <dt>&nbsp;</dt>
+    </dl>
+    <div align=\"center\"><a href=\"http://www.infotronics.co.th\"><img src=\"co-operative/infotronic\" alt=\"บริษัท อินโฟโทรนิคส์ จำกัด\" width=\"186\" height=\"99\" /></a><a href=\"http://www.softsquaregroup.com/\"><img src=\"co-operative/softsquare\" alt=\"บริษัท ซอฟต์อินเตอร์ เชียงราย จำกัด\" /></a></div>
+    </fieldset></div>
+    <div class=\"TabbedPanelsContent\">
+    <table width=\"100%\" border=\"0\" cellspacing=\"1\" cellpadding=\"1\">
+        <tbody>
+            <tr>
+                <td width=\"5%\">&nbsp;</td>
+                <td width=\"88%\">
+                <p><strong>โครงการบ่มเพาะและเตรียมความพร้อมบุคลากรเพื่อป้อนสู่อุตสาหกรรม (โครงการ SIPA)</strong></p>
+                <p><strong>หลักการและเหตุผล</strong></p>
+                <p>ตามที่สำนักงานส่งเสริมอุตสาหกรรมซอฟต์แวร์แห่งชาติ (องค์การมหาชน) ได้เห็นถึงความสำคัญของการแก้ไขปัญหาการขาดแคลนบุคลากรสำหรับเข้า ทำงานในภาคอุตสาหกรรมซอฟต์แวร์ นิสิตนักศึกษา ที่จบใหม่ไม่สามารถทำงานในภาคอุตสาหกรรมได้ทันที บริษัทซอฟต์แวร์ต้องเสียค่าใช้จ่ายและเวลา ในการอบรมบุคลากรอย่างน้อย 3 เดือน จึงจะสามารถปฏิบัติงานในบริษัทซอฟต์แวร์หรือปฏิบัติงานในอุตสาหกรรมซอฟต์แวร์ได้ สำหรับภาคการศึกษาไม่สามารถผลิต บุคลากรให้ตรงกับความต้องการของอุตสาหกรรมซอฟต์แวร์ได้เนื่องจากอุตสาหกรรมนี้มีความต้องการบุคลากรที่มีความรู้ความสามารถและทักษะที่ก้าวทันเทคโนโลยีสมัยใหม่ตลอดเวลา พลวัตรของเทคโนโลยีสารสนเทศที่เปลี่ยนแปลงอย่างรวดเร็วดังกล่าวจึงทำให้สถาบันการศึกษาไม่สามารถปรับปรุงหลักสูตรให้สามารถผลิตบัณฑิตที่สอดคล้องกับความต้องการของอุตสาหกรรมซอฟต์แวร์ที่เปลี่ยนแปลงอย่างรวดเร็วตลอดเวลา</p>
+                <p>โครงการบ่มเพาะและเตรียมความพร้อมบุคลากรเพื่อป้อนสู่อุตสาหกรรม มหาวิทยาลัยพะเยา ร่วมกับ สำนักงานส่งเสริมอุตสาหกรรมซอฟต์แวร์แห่งชาติ (องค์การมหาชน) จึงเป็นประโยชน์ต่อการพัฒนาบัณฑิตให้มีทักษะและสามารถเข้าทำงานในอุตสาหกรรมซอฟต์แวร์ได้ทันทีหลังจากผ่านการอบรม โดยมีผู้มีเชี่ยวชาญจากบริษัทซอฟต์แวร์เป็นวิทยากรถ่ายทอดความรู้และทักษะการพัฒนาซอฟต์แวร์ให้แก่บัณฑิต ช่วยให้บัณฑิตมีงานทำในภูมิภาคที่เป็นถิ่นที่อยู่ของบัณฑิตเองโดย ไม่ต้องย้ายถิ่นฐานไปทำงานต่างจังหวัด และยังช่วยกระตุ้นให้ภาคธุรกิจซอฟต์แวร์ในภูมิภาคมีการพัฒนามากขึ้น</p>
+                </td>
+                <td width=\"7%\">&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                <p><strong>วัตถุประสงค์ของโครงการ</strong><strong>บ่มเพาะและเตรียมความพร้อมบุคลากรเพื่อป้อนสู่อุตสาหกรรม</strong></p>
+                <p>1.เพื่อผลิตบุคลากรซอฟต์แวร์ได้ตรงกับความต้องการและเป้าหมายที่กำหนดของภาคอุตสาหกรรมซอฟต์แวร์ไทย ซึ่งเป็นการเตรียมความพร้อมบุคลากรในการทำงานให้กับภาคอุตสาหกรรม<br />
+                2.เพื่อขยายฐานตลาดแรงงานในภูมิภาคเหนือให้กับภาคอุตสาหกรรมซอฟต์แวร์ไทยให้มีคุณภาพ ซึ่งจะสร้างความเข้มแข็งให้กับอุตสาหกรรมซอฟต์แวร์ไทยและเป็นการก้าวสู่การแข่งขันในตลาดโลก<br />
+                3. การสร้างรายได้ให้แก่ผู้ผ่านการฝึกอบรม และลดอัตราการว่างงานของบัณฑิตที่จบในสายวิชาชีพซอฟต์แวร์<br />
+                4. เพื่อเพิ่มอัตราการได้งานทำตรงตามสาขาที่นักศึกษาและบัณฑิตที่จบใหม่<br />
+                5. ลดการย้ายถิ่นฐานและสร้างตลาดแรงงานในภาคเหนือ</p>
+                <p><strong>คุณสมบัติผู้สมัคร</strong></p>
+                <p>1.เป็นผู้มีความประพฤติดี รับรองโดยอาจารย์ที่ปรึกษา<br />
+                2. เป็นผู้มีคะแนนสะสมเฉลี่ย (GPA) อย่างน้อย 2.00 ณ วันที่ยื่นใบสมัคร</p>
+                <p align=\"left\"><span class=\"style9\"><strong>****** นิสิตที่ผ่านการคัดเลือกเข้าร่วมโครงการ SIPA ให้นิสิตลงทะเบียน วิชาสหกิจศึกษา</strong> <span class=\"style10\">แทน</span> <strong>วิชาฝึกงาน</strong> ******</span></p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+    <div class=\"TabbedPanelsContent\">
+    <table width=\"100%\" border=\"0\" cellspacing=\"1\" cellpadding=\"1\">
+        <tbody>
+            <tr>
+                <td width=\"5%\">&nbsp;</td>
+                <td width=\"88%\">
+                <p><strong>สหกิจศึกษา</strong></p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;สหกิจศึกษา(Co-operative Education) คือ ระบบการศึกษาที่เน้นการปฏิบัติงานในหน่วยงาน ซึ่งเรียกว่า&nbsp;สถานประกอบการหรือองค์กรผู้ใช้บัณฑิต อย่างเป็นระบบก่อนสำเร็จการศึกษา โดยที่นักศึกษาจะต้องปฏิบัติงานจริง ณ สถานประกอบการหรือองค์กรผู้ใช้บัณฑิตที่ให้ความร่วมมือแบบเต็มเวลา จำนวน 16 สัปดาห์ (เรียนรู้การปฏิบัติงานจริง จำนวน 4 เดือนเต็ม : 1ภาคการศึกษา) &nbsp;ทั้งนี้นักศึกษาจะไม่อยู่ใน สถานะของนักศึกษาฝึกงาน แต่ว่านักศึกษาจะเป็นเสมือนเจ้าหน้าที่หรือพนักงานปฏิบัติงานชั่วคราวในสถานประกอบการหรือองค์กรผู้ใช้บัณฑิต และนักศึกษาสหกิจศึกษาอาจจะได้รับเงินเดือน ค่าจ้างสวัสดิการหรือค่าตอบแทนอื่นตามความเหมาะสมจากสถานประกอบการหรือองค์กรผู้ใช้บัณฑิต</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;การจัดการเรียนการสอนแบบสหกิจศึกษา   จึงเป็นระบบการศึกษาที่เน้นการปฏิบัติงานจริงในสถานประกอบการหรือองค์กรผู้ใช้บัณฑิต (Work Based&nbsp;&nbsp;Learning) อย่างชัดเจนเป็นระบบ   &nbsp;หรือการจัดการศึกษาเชิงบูรณาการกับการทำงาน(Work Integrated Learning   :WIL) นักศึกษาที่เรียนสหกิจศึกษาทุกคนจะต้องแจ้งความประสงค์เรียนและกรอกใบสมัครที่สาขาวิชาหรือภาควิชาของตนเอง</p>
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;ขณะเดียวกันนักศึกษาจะต้องผ่านการสอบสัมภาษณ์ และการคัดเลือกจากสถานประกอบการหรือองค์กรผู้ใช้บัณฑิตที่มีความประสงค์รับนักศึกษาเข้าไปปฏิบัติงาน&nbsp; หลังจากนั้นมหาวิทยาลัยพายัพจะจัดส่งนักศึกษาเข้าไปปฏิบัติงานจริงตามภารกิจที่ได้รับมอบหมายจากสถานประกอบการหรือองค์กรผู้ใช้บัณฑิตนั้น ๆอย่างชัดเจน โดยนักศึกษาสามารถเรียนรู้ประสบการณ์จากการปฏิบัติงานจริง อันจะเป็นการฝึกการประยุกต์ใช้แนวคิด ทฤษฎี และเติมเต็มระหว่างความรู้ที่ได้รับจากการเรียน การสอนในห้องเรียนที่มหาวิทยาลัยและการนำไปใช้ในชีวิตจริง ซึ่งจะช่วยเสริมสร้างทักษะและประสบการณ์ที่ดีให้แก่นักศึกษาสหกิจศึกษา และเพื่อให้ได้บัณฑิตที่มีคุณภาพตามที่ตลาดแรงงานต้องการในที่สุด</p>
+                </td>
+                <td width=\"7%\">&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                <p><strong>วัตถุประสงค์ของสหกิจศึกษา</strong></p>
+                <p align=\"justify\">1)เตรียมความพร้อมของนักศึกษา                                         ด้านการพัฒนาอาชีพ                                         (Career Development)                                         และเสริมทักษะ และ                  ประสบการณ์ให้พร้อมที่จะเข้าสู่ระบบการทำงาน                                         (Employability)<br />
+                2) เพิ่มเติมประสบการณ์ทางด้านวิชาการ                                         วิชาชีพ และการพัฒนาตนเองแก่นักศึกษาในรูปแบบที่มีคุณค่าเหนือกว่าการฝึกงาน<br />
+                3) เปิดโอกาสให้สถานประกอบการทั้งภาคเอกชน                                         และภาครัฐได้มีส่วนร่วมในการพัฒนาคุณภาพบัณฑิต<br />
+                4) ให้เกิดการพัฒนาหลักสูตรและการเรียนการสอนที่ทันสมัยได้มาตรฐานและตรงกับความต้องการของ                 ตลาดแรงงานมากยิ่งขึ้น<br />
+                5)เพื่อสร้างความสัมพันธ์ระหว่างสถานประกอบการและสถาบันอุดมศึกษาผ่านนักศึกษาสหกิจศึกษาและคณาจารย์นิเทศ                                         อันจะนำไปสู่ความร่วมมือท ี่กว้างขวางยิ่งขึ้น</p>
+                <p><strong>คุณสมบัติผู้สมัคร</strong> (ใช้เกณฑ์เดียวกับโครงการ SIPA)</p>
+                <p>1.เป็นผู้มีความประพฤติดี รับรองโดยอาจารย์ที่ปรึกษา<br />
+                2. เป็นผู้มีคะแนนสะสมเฉลี่ย (GPA) อย่างน้อย 2.00 ณ วันที่ยื่นใบสมัคร</p>
+                <p align=\"justify\"><span class=\"style9\">***** ช่วงเวลารายวิชาสหกิจศึกษา <span class=\"style10\">1 พฤศจิกายน 2555 - 28 กุมภาพันธ์ 2556</span> *****</span></p>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+    <div class=\"TabbedPanelsContent\">
+    <dt></dt>
+    <dt>- เอกสารประกอบการอบรมหลักสูตร java Programming >> <a href="/UserFiles/file/OOP-Sipa-56.rar"><strong>Download</strong></a></dt>
+    <hr>
+    <pre>
+หลักฐานที่ต้องเตรียมแนบมาพร้อมใบสมัคร  ดังนี้
+
+1. สำเนาบัตรประชาชน     3 ชุด
+2. สำเนาบัตรประจำตัวนิสิต	 2 ชุด
+3. รูปถ่าย 1 นิ้ว         2 ใบ
+        </pre>
+    <a href=\"co-operative/Files/register.pdf\" style=\"text-decoration:none\"><u><span style=\"color: rgb(255, 0, 0); \">Download ใบสมัครเข้าร่วมโครงการ SIPA</span></u></a>          <hr />
+    </div>
+	    <div class=\"TabbedPanelsContent\">
+    <pre>
+<strong>นิสิตสามารถดาวน์โหลดเอกสารได้ ดังนี้</strong><br />
+      1. ตารางกำหนดการสหกิจศึกษา   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/ตารางกำหนดการสหกิจศึกษา.pdf\" style=\"text-decoration:none\"><span><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></span></a></span>
+      2. แบบฟอร์มสหกิจศึกษา
+<dd></dd>               2.1 แบบฟอร์มแจ้งรายละเอียดที่พักระหว่างการปฏิบัติงานสหกิจศึกษา (UP_Co-op 04)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 04.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.2 แบบฟอร์มแจ้งรายละเอียดงาน ตำแหน่งงาน พนักงานที่ปรึกษา (UP_Co-op 05)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 05.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.3 แบบฟอร์มแจ้งแผนการปฏิบัติงานสหกิจศึกษา (UP_Co-op 06)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 061.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.4 แบบฟอร์มแจ้งโครงร่างรายงานการปฏิบัติงานสหกิจศึกษา (UP_Co-op 07)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 071.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.5 แบบฟอร์มประเมินผลนิสิตสหกิจศึกษา (UP_Co-op 08)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 08.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a> | <a href=\"co-operative/Files/Co-op 08.docx\" style=\"text-decoration:none\"><img src="images/word.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.6 แบบฟอร์มประเมินรายงานนิสิตสหกิจศึกษา (UP_Co-op 09)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 09.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a> | <a href=\"co-operative/Files/Co-op 09.docx\" style=\"text-decoration:none\"><img src="images/word.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.7 แบบฟอร์มแจ้งยืนยันส่งรายงานการปฏิบัติงานนิสิตสหกิจศึกษา (UP_Co-op 10)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 10.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a> | <a href=\"co-operative/Files/Co-op 10.docx\" style=\"text-decoration:none\"><img src="images/word.png" width="16" height="16" title="ดาวน์โหลด"></a></span></span>
+<!----<dd></dd>               2.8 แบบฟอร์มแจ้งรายละเอียดเกี่ยวกับการปฏิบัติงานสหกิจศึกษา (UP_Co-op 11)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 11.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a></span>
+<dd></dd>               2.9 แบบฟอร์มประเมินตนเองในการปฏิบัติงานของนิสิตสหกิจศึกษา (UP_Co-op 12)   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/Co-op 12.pdf\" style=\"text-decoration:none\"><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></a></span>---->
+      3. รายงานการปฏิบัติงานประจำวัน   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/รายงานการปฏิบัติงานประจำวัน1.pdf\" s14:38 30/10/2555tyle=\"text-decoration:none\"><span><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></span></a></span>
+      4. การเขียนรายงานสหกิจศึกษา   ดาวน์โหลด<span style="vertical-align:middle"><a href=\"co-operative/Files/การเขียนรายงานสหกิจศึกษา.pdf\" style=\"text-decoration:none\"><span><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></span></a></span>
+ 
+     <strong>ตัวอย่างรายงานปฏิบัติงานสหกิจศึกษา</strong><a href=\"co-operative/Files/ตัวอย่าง_รายงานปฏิบัติงานสหกิจศึกษา.pdf\" style=\"text-decoration:none\"><span><img src="images/1350355586_application-pdf.png" width="16" height="16" title="ดาวน์โหลด"></span></a></span>
+ </pre>
+    <!---<a href=\"co-operative/Files/register.pdf\" style=\"text-decoration:none\"><u><span style=\"color: rgb(255, 0, 0); \">Download ใบสมัครเข้าร่วมโครงการ SIPA</span></u></a>-->          <hr />
+    </div>
+
+    </div>
+    </div>
+    <script type=\"text/javascript\">
+<!--
+var TabbedPanels1 = new Spry.Widget.TabbedPanels(\"TabbedPanels1\");
+//-->
+</script>

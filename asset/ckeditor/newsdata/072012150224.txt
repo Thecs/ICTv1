@@ -1,0 +1,4 @@
+<p>&nbsp;<strong style=\"color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11px; \"><span style=\"font-size: larger; \"><span style=\"color: rgb(255, 0, 0); \">ข่าวประกาศตารางอบรมโครงการ SIPA ในหลักสูตร JAVA และ PHP&nbsp;</span></span></strong><input type=\"image\" src=\"http://www.ict.up.ac.th/2012/co-operative/news.gif\" style=\"color: rgb(88, 89, 91); font-family: Tahoma, Arial, Helvetica, sans-serif; \" />
+<dt style=\"color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11px; \">-ตารางอบรมของหลักสูตร JAVA &nbsp;&gt;&gt;&nbsp;<a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/SIPA-JAVA-SD\" style=\"color: rgb(88, 89, 91); text-decoration: none; \">Download</a></dt>
+<dt style=\"color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11px; \">-ตารางอบรมของหลักสูตร PHP &nbsp;&gt;&gt;&nbsp;<a href=\"http://www.ict.up.ac.th/2012/UserFiles/File/SIPA/SIPA-PHP-SD\" style=\"color: rgb(88, 89, 91); text-decoration: none; \">Download</a></dt>
+</p>

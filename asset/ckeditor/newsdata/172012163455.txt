@@ -1,0 +1,716 @@
+<p><span style=\"font-size: large; \">&nbsp;***แจ้งนิสิตที่เข้าร่วมโครงการฟ้อนเล็บวันที่ 12 สิงหาคม 2555 ให้มารับเกียรติบัตร<br />
+</span></p>
+<p><span style=\"font-size: large; \">- ในวันเสาร์ที่ 18 สิงหาคม 2555 เวลา 16.00น. เป้นต้นไป ณ ห้องประชุมเมืองพะเยา</span></p>
+<p><span style=\"font-size: large; \">รายชื่อดังต่อไปนี้</span></p>
+<table class=\"MsoNormalTable\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"642\" style=\"width:481.55pt;border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm\">
+    <tbody>
+        <tr style=\"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border: 1pt solid windowtext; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width: 101.65pt; border-style: solid solid solid none; border-top-color: windowtext; border-right-color: windowtext; border-bottom-color: windowtext; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width: 315.8pt; border-style: solid solid solid none; border-top-color: windowtext; border-right-color: windowtext; border-bottom-color: windowtext; border-top-width: 1pt; border-right-width: 1pt; border-bottom-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">วิทยาการคอมพิวเตอร์</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:1;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55025265</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสุรีย์พร   ก๋าทุ่ง</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:2;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">2</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55025018</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวจีราภรณ์   วงศ์นาค</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:3;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">3</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55025254</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสุภาพร   มวลแก้ว</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:4;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">4</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55025131</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวพัชรนันท์   ชัยดรุณ</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:5;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">5</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55025197</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาววรีรัตน์   สุวรรณลพ</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:6;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">6</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55022026</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวพัชราภรณ์   สุโรจน์</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:7;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">7</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55025030</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวจุฑารัตน์   ศักดิ์กัณหา</span><span style=\"font-size:10.0pt;font-family:Tahoma;
+            color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:8;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">8</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55021878</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวธนพร   อรุณธัญญาวิรัช</span><span style=\"font-size:10.0pt;font-family:Tahoma;
+            color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:9;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">9</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55021845</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวณิชาการณ์   เอี่ยมจุฬา</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:10;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">10</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55021902</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวธิติมา   ภูมิศรีศักดิ์</span><span style=\"font-size:10.0pt;font-family:Tahoma;
+            color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:11;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">เทคโนโลยีสารสนเทศ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:12;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55021463</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวอาภรณ์   กรุมรัมย์</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:13;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">2</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55021407</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสิริกมล   พญาเเขม</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:14;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">3</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55024488</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวพรรณภัค   เขตรหล่าย</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:15;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">วิศวกรรมซอฟต์แวร์</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:16;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023544</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสุทธินี   หลักคำ</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:17;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">2</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023454</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวพรพิไล   แย้มชุมพร</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:18;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">3</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023476</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวภัณฑิรา   ปานทอง</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:19;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">4</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023599</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวอารีรัตน์   ภู่เทศ</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:20;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">วิศวกรรมสาสนเทศและการสื่อสาร</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:21;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55026075</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวพีระพรรณ   กายา</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:22;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">2</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55024028</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวไอยรดา   สาโรจน์</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:23;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">3</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023993</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสุตาภัทร   เอี่ยมอ่อน</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:24;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">4</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023667</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวเขมิกา   สิงหะสุริยะ</span><span style=\"font-size:10.0pt;font-family:Tahoma;
+            color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:25;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">5</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023870</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวมลฑกานต์   ปานสารี</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:26;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">6</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023690</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวจุฑามาศ   ช้างแก้ว</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:27;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">7</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023803</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวนิศาชล   ฮวบหิน</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:28;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">8</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55024006</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสุนิสา   ทองมาก</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:29;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">&nbsp;9</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">&nbsp;</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวจิตรดา   บุญยืน</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:30;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">คอมพิวเตอร์ธุรกิจ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:31;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53282298</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวปุณยนุช   โสมสุด</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:32;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">2</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53282076</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวเต็มดวง   วันทัศน์</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:33;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">3</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53281956</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวชลธิชา   กลิ่นวัฒนาสกุล</span><span style=\"font-size:10.0pt;font-family:Tahoma;
+            color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:34;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">4</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53282397</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวเพชรินทร์   ดวงใย</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:35;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">5</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53282670</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นายอนุชา   แสนสะอาด</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:36;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">6</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53282052</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวดาริน   พูลงาม</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:37;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">7</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53284117</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวจิราภา   กับเป็ง</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:38;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">วิศวกรรมคอมพิวเตอร์</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:39;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">54022272</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวศุภสุตา   รุ่งเรืองชัยสิทธิ์</span><span style=\"font-size:10.0pt;font-family:Tahoma;
+            color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:40;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">2</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55022510</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวทิพวรรณ   ทองเทพ</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:41;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">3</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55022712</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวพัชรี   คำวรรณ</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:42;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">4</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023083</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวอภิชญา   ยุพเยาว์</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:43;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">5</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55023005</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสิริพัฒน์   อินทพรต</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:44;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">6</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">55022925</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวศิรินันท์   รังเพชร</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:45;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">ลำดับ</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" nowrap=\"\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">รหัสนิสิต</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" nowrap=\"\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><b><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นิติ </span></b><b><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">IT</span></b><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+        <tr style=\"mso-yfti-irow:46;mso-yfti-lastrow:yes;height:24.75pt\">
+            <td width=\"85\" nowrap=\"\" style=\"width: 64.1pt; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0cm 5.4pt; height: 24.75pt; \">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">1</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"136\" style=\"width:101.65pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" align=\"center\" style=\"margin-bottom:16.2pt;text-align:center\"><span style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">53291696</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+            <td width=\"421\" style=\"width:315.8pt;border-top:none;border-left:none;
+            border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+            padding:0cm 5.4pt 0cm 5.4pt;height:24.75pt\">
+            <p class=\"MsoNormal\" style=\"margin-bottom:16.2pt\"><span lang=\"TH\" style=\"font-size:16.0pt;font-family:&quot;TH Niramit AS&quot;;color:#2A2A2A\">นางสาวสวรรยา   ชื่นวงศ์</span><span style=\"font-size:10.0pt;font-family:Tahoma;color:#2A2A2A\"><o:p></o:p></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>

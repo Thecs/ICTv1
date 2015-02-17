@@ -1,0 +1,12 @@
+<p>&nbsp;</p>
+<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"677\" align=\"top\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \">
+    <tbody>
+        <tr>
+            <td>
+            <p><span style=\"color: rgb(102, 102, 102); \"><strong><a href=\"http://www.dsa.up.ac.th/main/index.php?name=news&amp;file=readnews&amp;id=131\" style=\"color: rgb(141, 56, 201); text-decoration: none; \"><span style=\"font-size: large; \"><span style=\"font-size: small; \"><span style=\"font-size: x-small; \"><span style=\"color: rgb(51, 51, 51); \">ระกาศแนวปฎิบัติการแต่งกายของนิสิตมหาวิทยาลัยพะเยา ตามข้อบังคับมหาวิทยาลัยพะเยา ว่าด้วย เครื่องแบบ เครื่องหมาย และเครื่องแต่งกายของนิสิต พ.ศ. 2554 และ ฉบับแก้ไขเพิ่มเติม ฉบับที่ 2 พ.ศ. 2555</span></span></span></span></a></strong></span></p>
+            <p><span style=\"color: rgb(102, 102, 102); \"><strong><span style=\"font-size: large; \"><img border=\"0\" alt=\"\" width=\"797\" height=\"564\" src=\"http://www.ict.up.ac.th/main/backoffice/php_form/uploads/images/ict11.jpg\" /><span style=\"font-size: x-small; \">&nbsp;</span></span></strong></span></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><img border=\"0\" alt=\"\" width=\"799\" height=\"540\" src=\"http://www.ict.up.ac.th/main/backoffice/php_form/uploads/images/ict12.jpg\" style=\"color: rgb(51, 51, 51); font-family: \'Microsoft Sans Serif\'; font-size: small; \" /></p>
